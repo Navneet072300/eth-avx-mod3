@@ -1,4 +1,4 @@
-# ETH_Interm
+# ETH-AVAX-MOD3
 The program provided is an example of a smart contract written in Solidity.This program is an create and mint token program in which the contract owner will only able to mint tokens to a provided address. Any user can able to burn and transfer tokens.
 
 ## Description
